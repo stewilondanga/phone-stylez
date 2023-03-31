@@ -272,7 +272,7 @@ body {
   margin: 0 20px;
 }
 
-/*.info .info-list .info-list-item .info-number {
+.info .info-list .info-list-item .info-number {
   display: inline;
   position: absolute;
   font-weight: 700;
@@ -280,7 +280,7 @@ body {
   margin-top: 2px;
 }
 
-.info .info-list .info-list-item .info-label {
+/*.info .info-list .info-list-item .info-label {
   display: inline;
   font-size: 13px;
 }
