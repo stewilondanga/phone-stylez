@@ -321,14 +321,14 @@ body {
   z-index: -1;
 }
 
-/*.time-line .time-line-list .time-line-list-item {
+.time-line .time-line-list .time-line-list-item {
   overflow: hidden;
   padding-bottom: 15px;
   position: relative;
   z-index: 3;
 }
 
-.time-line .time-line-list .time-line-list-item .time-line-structure {
+/*.time-line .time-line-list .time-line-list-item .time-line-structure {
   float: left;
 }
 
