@@ -332,7 +332,7 @@ body {
   float: left;
 }
 
-/*.time-line .time-line-list .time-line-list-item .time-line-clock .time-line-clock-text {
+.time-line .time-line-list .time-line-list-item .time-line-clock .time-line-clock-text {
   font-size: 14px;
   font-weight: 400;
   text-align: right;
@@ -340,7 +340,7 @@ body {
   margin: 12px 0;
 }
 
-.time-line .time-line-list .time-line-list-item .time-line-clock .time-line-clock-text span {
+/*.time-line .time-line-list .time-line-list-item .time-line-clock .time-line-clock-text span {
   display: block;
   font-size: 12px;
   font-weight: 300;
