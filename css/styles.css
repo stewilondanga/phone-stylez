@@ -388,11 +388,11 @@ body {
   width: 60%;
 }
 
-/*.time-line .time-line-list .time-line-list-item .time-line-text .log-type {
+.time-line .time-line-list .time-line-list-item .time-line-text .log-type {
   font-size: 12px;
 }
 
-.time-line .time-line-list .time-line-list-item .time-line-text .contact-name {
+/*.time-line .time-line-list .time-line-list-item .time-line-text .contact-name {
   font-weight: 400;
   font-size: 20px;
 }
