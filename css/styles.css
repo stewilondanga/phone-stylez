@@ -368,7 +368,7 @@ body {
   background-color: #42ADDA;
 }
 
-/*.time-line .time-line-list .time-line-list-item .time-line-text::before {
+.time-line .time-line-list .time-line-list-item .time-line-text::before {
   content: "";
   position: absolute;
   left: -5px;
@@ -379,7 +379,7 @@ body {
   top: 10px;
 }
 
-.time-line .time-line-list .time-line-list-item .time-line-text {
+/*.time-line .time-line-list .time-line-list-item .time-line-text {
   position: relative;
   background-color: #42ADDA;
   padding: 5px 10px;
