@@ -285,13 +285,13 @@ body {
   font-size: 13px;
 }
 
-/*.info .info-list .info-list-item .fa {
+.info .info-list .info-list-item .fa {
   color: #2F89AF;
   font-size: 3em;
   margin-right: 5px;
 }
 
-.time-line {
+/*.time-line {
   height: 319px;
   width: 340px;
 }
