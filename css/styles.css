@@ -1,6 +1,6 @@
-/*@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 
-.share__icon {
+/*.share__icon {
   width: 32px;
   height: 32px;
   fill: #fff;
@@ -241,10 +241,12 @@ body {
 .screen {
   padding: 15px;
 }
+
 .screen h1 {
   font-weight: 300;
   display: inline;
 }
+
 .screen h2 {
   font-weight: 300;
   display: inline;
@@ -257,16 +259,20 @@ body {
   overflow: hidden;
   padding: 20px;
 }
+
 .info .info-list .info-sms {
   float: right;
 }
+
 .info .info-list .info-calls {
   float: left;
 }
+
 .info .info-list .info-list-item {
   position: relative;
   margin: 0 20px;
 }
+
 .info .info-list .info-list-item .info-number {
   display: inline;
   position: absolute;
@@ -274,10 +280,12 @@ body {
   font-size: 18px;
   margin-top: 2px;
 }
+
 .info .info-list .info-list-item .info-label {
   display: inline;
   font-size: 13px;
 }
+
 .info .info-list .info-list-item .fa {
   color: #2F89AF;
   font-size: 3em;
@@ -288,17 +296,21 @@ body {
   height: 319px;
   width: 340px;
 }
+
 .time-line article {
   height: 100%;
   overflow: auto;
 }
+
 .time-line .time-line-list {
   margin: 0 15px;
   position: relative;
 }
+
 .time-line .time-line-list .time-line-list-item:first-child::before {
   top: 10px;
 }
+
 .time-line .time-line-list .time-line-list-item::before {
   content: "";
   position: absolute;
@@ -309,15 +321,18 @@ body {
   top: 0px;
   z-index: -1;
 }
+
 .time-line .time-line-list .time-line-list-item {
   overflow: hidden;
   padding-bottom: 15px;
   position: relative;
   z-index: 3;
 }
+
 .time-line .time-line-list .time-line-list-item .time-line-structure {
   float: left;
 }
+
 .time-line .time-line-list .time-line-list-item .time-line-clock .time-line-clock-text {
   font-size: 14px;
   font-weight: 400;
@@ -325,29 +340,35 @@ body {
   line-height: 0.9;
   margin: 12px 0;
 }
+
 .time-line .time-line-list .time-line-list-item .time-line-clock .time-line-clock-text span {
   display: block;
   font-size: 12px;
   font-weight: 300;
 }
+
 .time-line .time-line-list .time-line-list-item .time-line-icon.call span {
   font-size: 15px;
   padding: 2px 6px;
   margin: 0 1px;
 }
+
 .time-line .time-line-list .time-line-list-item .time-line-icon.message span {
   font-size: 14px;
   padding: 3px 6px;
 }
+
 .time-line .time-line-list .time-line-list-item .time-line-icon {
   margin: 0 10px;
 }
+
 .time-line .time-line-list .time-line-list-item .time-line-icon span {
   display: block;
   border: 5px solid #2684AD;
   border-radius: 50%;
   background-color: #42ADDA;
 }
+
 .time-line .time-line-list .time-line-list-item .time-line-text::before {
   content: "";
   position: absolute;
@@ -358,6 +379,7 @@ body {
   transform: rotate(45deg);
   top: 10px;
 }
+
 .time-line .time-line-list .time-line-list-item .time-line-text {
   position: relative;
   background-color: #42ADDA;
@@ -366,9 +388,11 @@ body {
   margin-left: 5px;
   width: 60%;
 }
+
 .time-line .time-line-list .time-line-list-item .time-line-text .log-type {
   font-size: 12px;
 }
+
 .time-line .time-line-list .time-line-list-item .time-line-text .contact-name {
   font-weight: 400;
   font-size: 20px;
