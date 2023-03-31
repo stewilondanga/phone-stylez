@@ -352,12 +352,12 @@ body {
   margin: 0 1px;
 }
 
-/*.time-line .time-line-list .time-line-list-item .time-line-icon.message span {
+.time-line .time-line-list .time-line-list-item .time-line-icon.message span {
   font-size: 14px;
   padding: 3px 6px;
 }
 
-.time-line .time-line-list .time-line-list-item .time-line-icon {
+/*.time-line .time-line-list .time-line-list-item .time-line-icon {
   margin: 0 10px;
 }
 
