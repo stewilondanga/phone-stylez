@@ -291,12 +291,12 @@ body {
   margin-right: 5px;
 }
 
-/*.time-line {
+.time-line {
   height: 319px;
   width: 340px;
 }
 
-.time-line article {
+/*.time-line article {
   height: 100%;
   overflow: auto;
 }
