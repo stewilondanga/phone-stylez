@@ -328,11 +328,11 @@ body {
   z-index: 3;
 }
 
-/*.time-line .time-line-list .time-line-list-item .time-line-structure {
+.time-line .time-line-list .time-line-list-item .time-line-structure {
   float: left;
 }
 
-.time-line .time-line-list .time-line-list-item .time-line-clock .time-line-clock-text {
+/*.time-line .time-line-list .time-line-list-item .time-line-clock .time-line-clock-text {
   font-size: 14px;
   font-weight: 400;
   text-align: right;
