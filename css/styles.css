@@ -227,7 +227,7 @@ body {
   border: 2px solid #000;
 }
 
-/*.content:after {
+.content:after {
   content: "";
   position: absolute;
   height: 30px;
@@ -237,7 +237,7 @@ body {
   bottom: 0px;
 }
 
-.screen {
+/*.screen {
   padding: 15px;
 }
 
