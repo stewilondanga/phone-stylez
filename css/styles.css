@@ -296,12 +296,12 @@ body {
   width: 340px;
 }
 
-/*.time-line article {
+.time-line article {
   height: 100%;
   overflow: auto;
 }
 
-.time-line .time-line-list {
+/*.time-line .time-line-list {
   margin: 0 15px;
   position: relative;
 }
