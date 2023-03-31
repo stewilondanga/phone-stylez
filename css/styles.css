@@ -246,7 +246,7 @@ body {
   display: inline;
 }
 
-/*.screen h2 {
+.screen h2 {
   font-weight: 300;
   display: inline;
   float: right;
@@ -254,7 +254,7 @@ body {
   font-size: 20px;
 }
 
-.info .info-list {
+/*.info .info-list {
   overflow: hidden;
   padding: 20px;
 }
