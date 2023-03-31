@@ -310,7 +310,7 @@ body {
   top: 10px;
 }
 
-/*.time-line .time-line-list .time-line-list-item::before {
+.time-line .time-line-list .time-line-list-item::before {
   content: "";
   position: absolute;
   left: 55px;
@@ -321,7 +321,7 @@ body {
   z-index: -1;
 }
 
-.time-line .time-line-list .time-line-list-item {
+/*.time-line .time-line-list .time-line-list-item {
   overflow: hidden;
   padding-bottom: 15px;
   position: relative;
