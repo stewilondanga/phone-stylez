@@ -340,13 +340,13 @@ body {
   margin: 12px 0;
 }
 
-/*.time-line .time-line-list .time-line-list-item .time-line-clock .time-line-clock-text span {
+.time-line .time-line-list .time-line-list-item .time-line-clock .time-line-clock-text span {
   display: block;
   font-size: 12px;
   font-weight: 300;
 }
 
-.time-line .time-line-list .time-line-list-item .time-line-icon.call span {
+/*.time-line .time-line-list .time-line-list-item .time-line-icon.call span {
   font-size: 15px;
   padding: 2px 6px;
   margin: 0 1px;
