@@ -357,11 +357,11 @@ body {
   padding: 3px 6px;
 }
 
-/*.time-line .time-line-list .time-line-list-item .time-line-icon {
+.time-line .time-line-list .time-line-list-item .time-line-icon {
   margin: 0 10px;
 }
 
-.time-line .time-line-list .time-line-list-item .time-line-icon span {
+/*.time-line .time-line-list .time-line-list-item .time-line-icon span {
   display: block;
   border: 5px solid #2684AD;
   border-radius: 50%;
