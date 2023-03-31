@@ -203,7 +203,7 @@ body {
   top: 31px;
 }
 
-/*.case:after {
+.case:after {
   content: "";
   position: absolute;
   border: 2px solid;
@@ -214,7 +214,7 @@ body {
   margin-left: -25px;
 }
 
-.content {
+/*.content {
   background-color: #096087;
   color: #fff;
   font-family: "Open Sans", sans-serif;
