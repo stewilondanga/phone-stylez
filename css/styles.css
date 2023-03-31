@@ -263,11 +263,11 @@ body {
   float: right;
 }
 
-/*.info .info-list .info-calls {
+.info .info-list .info-calls {
   float: left;
 }
 
-.info .info-list .info-list-item {
+/*.info .info-list .info-list-item {
   position: relative;
   margin: 0 20px;
 }
