@@ -259,11 +259,11 @@ body {
   padding: 20px;
 }
 
-/*.info .info-list .info-sms {
+.info .info-list .info-sms {
   float: right;
 }
 
-.info .info-list .info-calls {
+/*.info .info-list .info-calls {
   float: left;
 }
 
