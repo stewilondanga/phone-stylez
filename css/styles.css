@@ -254,12 +254,12 @@ body {
   font-size: 20px;
 }
 
-/*.info .info-list {
+.info .info-list {
   overflow: hidden;
   padding: 20px;
 }
 
-.info .info-list .info-sms {
+/*.info .info-list .info-sms {
   float: right;
 }
 
