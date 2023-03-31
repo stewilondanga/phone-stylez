@@ -346,13 +346,13 @@ body {
   font-weight: 300;
 }
 
-/*.time-line .time-line-list .time-line-list-item .time-line-icon.call span {
+.time-line .time-line-list .time-line-list-item .time-line-icon.call span {
   font-size: 15px;
   padding: 2px 6px;
   margin: 0 1px;
 }
 
-.time-line .time-line-list .time-line-list-item .time-line-icon.message span {
+/*.time-line .time-line-list .time-line-list-item .time-line-icon.message span {
   font-size: 14px;
   padding: 3px 6px;
 }
