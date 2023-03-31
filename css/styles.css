@@ -241,12 +241,12 @@ body {
   padding: 15px;
 }
 
-/*.screen h1 {
+.screen h1 {
   font-weight: 300;
   display: inline;
 }
 
-.screen h2 {
+/*.screen h2 {
   font-weight: 300;
   display: inline;
   float: right;
