@@ -181,7 +181,7 @@ body {
 }
 
 /********************/
-/*.case {
+.case {
   background-color: #fff;
   width: 350px;
   margin: 35px auto;
@@ -191,7 +191,7 @@ body {
   position: relative;
 }
 
-.case:before {
+/*.case:before {
   content: "";
   position: absolute;
   border: 2px solid;
