@@ -267,12 +267,12 @@ body {
   float: left;
 }
 
-/*.info .info-list .info-list-item {
+.info .info-list .info-list-item {
   position: relative;
   margin: 0 20px;
 }
 
-.info .info-list .info-list-item .info-number {
+/*.info .info-list .info-list-item .info-number {
   display: inline;
   position: absolute;
   font-weight: 700;
