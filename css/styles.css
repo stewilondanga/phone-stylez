@@ -306,11 +306,11 @@ body {
   position: relative;
 }
 
-/*.time-line .time-line-list .time-line-list-item:first-child::before {
+.time-line .time-line-list .time-line-list-item:first-child::before {
   top: 10px;
 }
 
-.time-line .time-line-list .time-line-list-item::before {
+/*.time-line .time-line-list .time-line-list-item::before {
   content: "";
   position: absolute;
   left: 55px;
