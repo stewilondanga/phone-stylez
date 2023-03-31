@@ -301,12 +301,12 @@ body {
   overflow: auto;
 }
 
-/*.time-line .time-line-list {
+.time-line .time-line-list {
   margin: 0 15px;
   position: relative;
 }
 
-.time-line .time-line-list .time-line-list-item:first-child::before {
+/*.time-line .time-line-list .time-line-list-item:first-child::before {
   top: 10px;
 }
 
